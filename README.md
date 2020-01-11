@@ -6,5 +6,5 @@ tech: html&css, javascript, jQuery.
 [Enjoy :)](https://avimishh.github.io/DragonBallZ/).
 
 ### Example
-
+![](./example.gif)
 ![alt text](https://i.ibb.co/7C0q2pw/dbz.png)
