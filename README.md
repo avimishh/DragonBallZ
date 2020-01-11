@@ -7,4 +7,3 @@ tech: html&css, javascript, jQuery.
 
 ### Example
 ![](./example.gif)
-![alt text](https://i.ibb.co/7C0q2pw/dbz.png)
