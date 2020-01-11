@@ -3,7 +3,7 @@ dragonBallZ frontEnd web application
 tech: html&css, javascript, jQuery.
 
 ### Link
-Enjoy :) [Github pages](https://avimishh.github.io/DragonBallZ/).
+[Enjoy :)](https://avimishh.github.io/DragonBallZ/).
 
 ### Example
 
