@@ -6,7 +6,7 @@ function levelUp() {
     if (lvlNum >= 10) return;
     missileFallingTime -= 450;
     $("#lvlNum").text(++lvlNum);
-    a
+    
 }
 function levelDown() {
     if (lvlNum <= 1) return;
